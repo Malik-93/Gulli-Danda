@@ -1,0 +1,291 @@
+body
+{
+    margin: 0px;
+}
+
+
+.header
+{
+    
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    
+}
+
+.top-logo
+{
+    
+    height: 107px;
+    width: 251px;
+    padding-top: 20px;
+    padding-left: 51px;
+    
+}
+
+.top-logos
+{
+    
+    margin-left: 0px;
+    
+}
+
+
+.link
+{
+    text-decoration: none!important;
+    padding-left: 45px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    padding-top: 57px;
+
+}
+
+.link:hover
+{
+    color: #ee1c25;
+    
+}
+
+.btns
+{
+    margin-top: 55px;
+    margin-left: 80px;
+    display: flex;
+}
+
+.login
+{
+    background-color: #ee1c25;
+    text-decoration: none!important;
+    height: 31px;
+    width: 95px;
+    border: none;
+    border-radius: 20px;
+    
+}
+
+.login-2
+{
+    color: #ffffff;
+    font-weight: 600;
+    text-decoration: none!important;
+}
+
+.login-2:hover
+{
+    color: #ffffff;
+    
+}
+
+.signup
+{
+    background-color: #ee1c25;
+    
+    height: 31px;
+    width: 100px;
+    border: none;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+.shopping-cart
+{
+    color: #ee1c25;
+    margin-top: 43px;
+    margin-left: 50px;
+    font-size: 36px;
+}
+
+.item-count
+{
+    height: 15px;
+    width: 15px;
+    text-align: center;
+    border-radius: 100%;
+    background-color: #e6e6e6;
+    color: #222;
+    font-size: 11px;
+    line-height: 17px;
+    font-weight: 400;
+    display: inline-block;
+    margin-top: 47px;
+    margin-left: 5px;
+
+
+}
+
+.about-red
+{
+    height: 128px;
+    width: 100%;
+    background-color: #ee1c25;
+    margin-top: 31px;
+}
+
+.about-us
+{
+    color: #ffffff;
+    text-align: center;
+    font-size: 36px;
+    padding-top: 37px;
+}
+
+.detail-photo
+{
+    height: 1100px;
+    width: 100%;
+    
+    margin-top: 80px;
+    display: flex;
+}
+
+.detail
+{
+    width: 670px;
+    height: 400px;
+    margin-left: 100px;
+    text-align: justify;
+    line-height: 19px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.photo
+{
+    margin-left: 200px;
+    margin-top: -15px;
+}
+
+.majot
+{
+    color: #ee1c25;
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+    padding-top: 7px;
+}
+
+.founder
+{
+    
+    padding-left: 100px;
+    font-size: 14px;
+    
+}
+
+.danda
+{
+    
+    padding-left: 100px;
+    font-size: 9px;
+}
+
+.para-img
+{
+    margin-top: 50px;
+}
+
+.how-does
+{
+    color: #ee1c25;
+    font-weight: bold;
+}
+
+.you-ready
+{
+    color: #ee1c25;
+    font-weight: bold;
+}
+
+
+.end-btn
+{
+    background-color: #ee1c25;
+    color: white;
+    height: 31px;
+    width: 125px;
+    border-radius: 20px;
+    border: 1px solid #ee1c25;
+    font-weight: 600!important;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-new
+{
+    background-color: rgb(27, 27, 29);
+    height: 180px;
+    width: 100%;
+    display: flex;
+    margin-top: 130px;
+    
+}
+
+.white-logo
+{
+   margin-left: 13px; 
+   margin-top: 30px;
+}
+
+.term
+{
+    list-style-type: none;
+    font-weight: 600;
+    font-size: 22px;
+    margin-left: 406px;
+    margin-top: 18px;
+    line-height: initial;
+}
+
+.term a{
+    text-decoration: none!important;
+    color: #d6e2f3;
+}    
+
+.footer-icon
+{
+    color: #d3d3d3;
+    margin-left: 265px;
+    font-size: 43px;
+    margin-top: 96px;
+}
+
+.footer-icon a
+{
+    color: #d6e2f3;
+}
+
+.All-right
+{
+    text-align: center;
+    padding-top: 21px;
+    font-size: 28px;
+    color: #000;
+    font-weight: 600;
+}

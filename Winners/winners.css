@@ -1,0 +1,286 @@
+body
+{
+    margin: 0px;
+}
+
+
+.header
+{
+    
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    
+}
+
+.top-logo
+{
+    
+    height: 107px;
+    width: 251px;
+    padding-top: 20px;
+    padding-left: 51px;
+    
+}
+
+.top-logos
+{
+    
+    margin-left: 0px;
+    
+}
+
+.link
+{
+    text-decoration: none!important;
+    padding-left: 45px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    padding-top: 57px;
+
+}
+
+.link:hover
+{
+    color: #ee1c25;
+    
+}
+
+.btns
+{
+    margin-top: 55px;
+    margin-left: 80px;
+    display: flex;
+}
+
+.login
+{
+    background-color: #ee1c25;
+    text-decoration: none!important;
+    height: 31px;
+    width: 95px;
+    border: none;
+    border-radius: 20px;
+    
+}
+
+.login-2
+{
+    color: #ffffff;
+    font-weight: 600;
+    text-decoration: none!important;
+}
+
+.login-2:hover
+{
+    color: #ffffff;
+    
+}
+
+.signup
+{
+    background-color: #ee1c25;
+    
+    height: 31px;
+    width: 100px;
+    border: none;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+.shopping-cart
+{
+    color: #ee1c25;
+    margin-top: 43px;
+    margin-left: 50px;
+    font-size: 36px;
+}
+
+.item-count
+{
+    height: 15px;
+    width: 15px;
+    text-align: center;
+    border-radius: 100%;
+    background-color: #e6e6e6;
+    color: #222;
+    font-size: 11px;
+    line-height: 17px;
+    font-weight: 400;
+    display: inline-block;
+    margin-top: 47px;
+    margin-left: 5px;
+
+
+}
+
+
+.winnerBanner{
+    background-image: url('hardball.png');
+    margin-left: 26px;
+    margin-right: 26px;
+    margin-top: 30px;
+    width: 1295px;
+    height: 295px;
+
+}
+
+.winnerBanner h3
+{
+    font-size: 80px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 96px;
+}
+
+.border
+{
+    margin-left: 26px;
+    margin-right: 26px;
+    margin-top: 55px;
+    border-radius: 25px;
+    height: 17px;
+    background-color: #ee1c25;
+}
+
+.main-div
+{
+    display: flex;
+    margin-left: -83px;
+}
+
+.virat-naina
+{
+    margin-left: 110px;
+    margin-top: 75px;
+}
+.virat-naina-2
+{
+    margin-top: 75px;
+    margin-left: 30px;
+}
+
+
+.name
+{
+    background-color: #ee1c25;
+    color: #ffffff;
+    width: 310px;
+    height: 35px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.winner-prize
+{
+    width: 310px;
+    height: 40px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #485a3c;
+    padding-top: 6px;
+    font-size: 18px;
+}
+
+.date
+{
+    background-color: #ee1c25;
+    color: #ffffff;
+    width: 310px;
+    height: 37px;
+    font-size: 13px;
+    padding-left: 10px;
+    padding-top: 8px;
+    
+}
+
+.date a 
+{
+    text-decoration: none;
+    color: #ffffff;
+    padding-left: 110px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-new
+{
+    background-color: rgb(27, 27, 29);
+    height: 180px;
+    width: 100%;
+    display: flex;
+    margin-top: 130px;
+    
+}
+
+.white-logo
+{
+   margin-left: 13px; 
+   margin-top: 30px;
+}
+
+.term
+{
+    list-style-type: none;
+    font-weight: 600;
+    font-size: 22px;
+    margin-left: 406px;
+    margin-top: 18px;
+    line-height: initial;
+}
+
+.term a{
+    text-decoration: none!important;
+    color: #d6e2f3;
+}    
+
+.footer-icon
+{
+    color: #d3d3d3;
+    margin-left: 265px;
+    font-size: 43px;
+    margin-top: 96px;
+}
+
+.footer-icon a
+{
+    color: #d6e2f3;
+}
+
+.All-right
+{
+    text-align: center;
+    padding-top: 21px;
+    font-size: 28px;
+    color: #000;
+    font-weight: 600;
+}
